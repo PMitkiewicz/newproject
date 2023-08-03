@@ -1,0 +1,21 @@
+
+
+html, body, #app, #app>div {
+    height: 100%
+  }
+  
+
+
+.background {
+
+    background-color: blue;
+    object-position: center top;
+    border: 2px solid black;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+
